@@ -1,0 +1,8 @@
+# OS-specific files
+/**/.DS_Store
+
+# Cache
+/**/__pycache__
+
+# jupyter saves
+/**/.ipynb_checkpoints
