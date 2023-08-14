@@ -33,9 +33,9 @@ Lastly, each design choice is explained within the context of the problem.
 "If you can't explain it to a six-year-old, then you don't understand it yourself" (Einstein).
 
 ## Use
-The project requires [Jupyter Notebook](https://jupyter.org/) to *modify*.
+The project requires [Jupyter Notebook](https://jupyter.org/) and Matplotlib to *modify*.
 
-Python Version: `<= 3.11`
+Python Version: `<= 3.6`
 
 See `requirements.txt` for full requirement list.
 
