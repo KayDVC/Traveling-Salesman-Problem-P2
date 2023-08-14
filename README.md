@@ -9,7 +9,9 @@ The objective of this project is to develop a working solution to the [Traveling
 
 In addition to implementing a solution, I also wanted to develop a deep understanding of the ASO algorithm – its methods, use-cases, advantages, and disadvantages.
 
-One last personal goal of mine is to include some visualization of the data/results acquired from runs of the solution. 
+One last personal goal of mine is to include some visualization of the data/results acquired from runs of the solution. Example:
+
+![Test Run: Distance over Time graph](assets/Results.png)
 
 _Notes_:
 - This project will be using slightly modified source code from [another project of mine solving the TSP using a genetic algorithm](https://github.com/KayDVC/Travelling-Salesman-Problem). Any modifications will be discussed.
